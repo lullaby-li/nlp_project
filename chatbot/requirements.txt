@@ -1,0 +1,9 @@
+werobot
+flask
+pandas
+numpy
+gensim
+jieba
+sklearn
+scipy
+hanziconv
