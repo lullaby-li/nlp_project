@@ -1,0 +1,6 @@
+hanziconv
+pandas
+jieba
+numpy
+sklearn
+gensim
